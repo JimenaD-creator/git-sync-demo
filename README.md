@@ -1,1 +1,3 @@
-# git-sync-demo
+# Git-sync-demo
+
+Testing automatic synchronization
